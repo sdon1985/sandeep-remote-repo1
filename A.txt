@@ -3,7 +3,15 @@ This is the first file
 This is the first update from my-project
 
 
+
 working in git project to see conflict
 
 while ()
+
+
+Adding one more change for working on to get conflicts
+ if ()
+ {
+ stmt;;;;
+ }
 
