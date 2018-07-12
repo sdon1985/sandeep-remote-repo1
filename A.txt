@@ -15,10 +15,7 @@ Adding one more change for working on to get conflicts
  stmt;;;;
  }
 
-<<<<<<< Updated upstream
-=======
 
  Working on stashing changess to see if ti works or not
 
  Adding one more update
->>>>>>> Stashed changes
