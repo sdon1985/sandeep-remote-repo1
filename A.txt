@@ -15,6 +15,11 @@ Adding one more change for working on to get conflicts
  stmt;;;;
  }
 
+<<<<<<< HEAD
+=======
+
+adding some new changes for stashing the change  
+>>>>>>> 0d845615024c560d06222b881c3331ccb41ed2cb
 
  Working on stashing changess to see if ti works or not
 
