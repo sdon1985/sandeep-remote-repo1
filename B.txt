@@ -3,3 +3,7 @@ Adding some changes in my project
 second update in git 
 
 for commit ammend
+
+For stashing the changes 
+
+
