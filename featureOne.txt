@@ -2,3 +2,5 @@ New file for stashing the changes
 
 
 working on merge straties 
+
+some more updates
